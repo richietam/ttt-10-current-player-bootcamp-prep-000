@@ -4,5 +4,3 @@ def turn_count(board)
     counter = counter + 1
   end
 end
-
-x.each_char { |chr|  }
